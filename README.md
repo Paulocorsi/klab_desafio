@@ -35,7 +35,7 @@ Este projeto é uma aplicação Spring Boot para gerenciar produtos e pedidos. F
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/seu-usuario/controle-produtos-pedidos.git
+   git clone https://github.com/paulocorsi/controle-produtos-pedidos.git
    cd controle-produtos-pedidos
 
 
